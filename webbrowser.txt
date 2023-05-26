@@ -1,0 +1,1 @@
+Welcome to the Python programming lecture. This is a text file created by Prof. Manish Patel.

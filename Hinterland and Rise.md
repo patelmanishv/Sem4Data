@@ -1,7 +1,9 @@
-- 1) pip install jupyter_contrib_nbextensions
+## To install nbextensions in jupyter notebook following each step in that sequence :-
 
-- 2) pip install jupyter_nbextensions_configurator
+1) pip install jupyter_contrib_nbextensions
 
-- 3) jupyter contrib nbextension install --user 
+2) pip install jupyter_nbextensions_configurator
 
-- 4) jupyter nbextensions_configurator enable --user
+3) jupyter contrib nbextension install --user 
+
+4) jupyter nbextensions_configurator enable --user

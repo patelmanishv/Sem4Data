@@ -7,3 +7,5 @@
 3) jupyter contrib nbextension install --user 
 
 4) jupyter nbextensions_configurator enable --user
+
+5) pip install rise

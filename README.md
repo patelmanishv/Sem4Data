@@ -1,2 +1,2 @@
-# SEM - 4 2024 PYTHON PROJECT (INDIVIDUAL AND GROUP) SUBMISSION LINK - 
-[GOOGLE FORM](https://docs.google.com/forms/d/131s_XHX52uC715wd4MHzz374PTtxR6EBrOmUVMHdk8w/edit)
+## LJIET Computer Engineering Undergraduate Course related Repository
+- This repo contains data related to LJIET Computer Engineering Undergraduate Course. 

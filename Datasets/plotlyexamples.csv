@@ -1,0 +1,9 @@
+,Category,Sales,Profit,Region,Gender,Type,Hours,Marks,Attempts
+0,A,100,20,east,M,self,4,50,1
+1,B,200,-30,west,F,coaching,5,55,2
+2,C,150,40,east,F,self,3,67,1
+3,D,250,-10,east,M,coaching,6,65,3
+4,A,120,25,west,M,self,7,79,2
+5,B,150,-20,west,F,self,8,78,2
+6,C,160,35,east,F,coaching,1,90,3
+7,D,240,-5,west,M,self,2,95,1
